@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="5dp"
+    android:layout_marginLeft="5dp"
+    android:gravity="center"
+    android:orientation="vertical">
+    <androidx.cardview.widget.CardView
+        app:cardCornerRadius="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <FrameLayout
+            android:background="@drawable/gradien_statusbar"
+            android:padding="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:src="@drawable/ic_baseline_add_box_24"
+                android:layout_width="36dp"
+                android:layout_height="36dp"/>
+        </FrameLayout>
+    </androidx.cardview.widget.CardView>
+    <TextView
+        android:text="Internal transfer"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="80dp"
+        android:maxLines="2"
+        android:ellipsize="end"/>
+</LinearLayout>

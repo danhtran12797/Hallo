@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vietcombamk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_10">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae, suscipit.</string>
+    <string name="accounts_cards"><u>Accounts/Cards</u></string>
+</resources>
