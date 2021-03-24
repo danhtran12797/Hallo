@@ -8,11 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-<<<<<<< HEAD
-// Notification ok chua
-=======
-// chim cut
->>>>>>> d819829421b80fd1156cfd8268aeea82e373bad8
+// trash vll flajdl
 public class NotifiFragment extends Fragment {
 
 
