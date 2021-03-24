@@ -8,6 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+// Notification ok chua
 public class NotifiFragment extends Fragment {
 
 
