@@ -12,6 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.thd.danhtran12797.designvietcombank.R;
 import com.thd.danhtran12797.designvietcombank.ScreenUtils;
 
+// banner adapter
 public class BannerAdapter extends RecyclerView.Adapter<BannerAdapter.BannerViewHolder> {
 
 
